@@ -10,3 +10,4 @@
 * 2447 별찍기-10
 * 2630 색종이 만들기
 * 1992 쿼드트리
+https://www.acmicpc.net/problemset?sort=ranking_asc&algo=24&algo_if=and
