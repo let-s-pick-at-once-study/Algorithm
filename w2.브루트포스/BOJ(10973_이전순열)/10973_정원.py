@@ -23,18 +23,18 @@ T = int(input()) # 1 <= T <= 10,000
 list = list(map(int, input().split()))
 
 def solution(ls):
-    if T == 1:
+    if T == 1: # T=1인 경우 처리 안해주면, 런타임에러
         return [-1]
     for i in range(T-1, 0, -1):
         if ls[i] < ls[i-1]:
             break
-    if i == 1 and ls[i] > ls[i-1]:
+    if i == 1 and ls[i] > ls[i-1]: # 입력받은 리스트가 가장 작은 값일 경우
         return [-1]
     for j in range(T-1, i-1, -1):
         if ls[j] < ls[i-1]:
             break
 
-    ls[i-1], ls[j] = ls[j], ls[i-1]
-    return ls[:i] + sorted(ls[i:], reverse=True)
+    ls[i-1], ls[j] = ls[j], ls[i-1] 
+    return ls[:i] + sorted(ls[i:], reverse=True) # 
 
 print(" ".join(map(str, solution(list))))
