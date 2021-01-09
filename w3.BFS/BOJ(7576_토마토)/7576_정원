@@ -1,0 +1,48 @@
+# 106732	2332
+import sys
+from collections import deque
+
+M, N = map(int, sys.stdin.readline().split())
+graph = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
+dx = [1,-1,0,0]
+dy = [0,0,1,-1]
+
+queue = deque()
+# graph 순회하면서 1이 있으면 queue에 추가
+for i in range(N):
+    for j in range(M):
+        if graph[i][j] == 1:
+            queue.append([i,j])
+
+# 토마토 익는 날짜
+day = 0
+def bfs():
+    global queue, day
+
+    while queue:
+        x, y = queue.popleft()
+
+        for i in range(4):
+            nx = x + dx[i]
+            ny = y + dy[i]
+
+            # 안 익은 토마토(0)는 익은 토마토(1)로 / 날짜 + 1
+            if (0 <= nx < N) and (0 <= ny < M) and (graph[nx][ny] == 0):
+                # graph[nx][ny] = 1
+                # day += 1
+                graph[nx][ny] = graph[x][y] + 1
+                queue.append([nx,ny])
+
+def print_result(graph):
+    # bfs 끝난 뒤 graph 탐색
+    count = 0
+    for row in graph:
+        for value in row:
+            if value == 0:
+                return -1
+            else:
+                count = max(count, value)
+    return count-1
+
+bfs()
+print(print_result(graph))
