@@ -30,3 +30,8 @@
   * 7576 [토마토](https://www.acmicpc.net/problem/7576)
   * 1697 [숨바꼭질](https://www.acmicpc.net/problem/1697)
   * 11727 [2xn 타일링 2](https://www.acmicpc.net/problem/11727)
+
+#### ✬ 1월 13일 `다이나믹 프로그래밍` `브루트포스`
+  * 10844 [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
+  * 1748 [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)
+  * 2003 [수들의 합](https://www.acmicpc.net/problem/2003)
