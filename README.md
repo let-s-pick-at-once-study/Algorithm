@@ -35,3 +35,7 @@
   * 10844 [쉬운 계단 수](https://www.acmicpc.net/problem/10844)
   * 1748 [수 이어 쓰기1](https://www.acmicpc.net/problem/1748)
   * 2003 [수들의 합](https://www.acmicpc.net/problem/2003)
+  
+#### ✬ 1월 16일 `브루트포스`
+  * 2529 [부등호](https://www.acmicpc.net/problem/2529)
+  * 14889 [스타트와 링크](https://www.acmicpc.net/problem/14889)
