@@ -39,3 +39,8 @@
 #### ✬ 1월 16일 `브루트포스`
   * 2529 [부등호](https://www.acmicpc.net/problem/2529)
   * 14889 [스타트와 링크](https://www.acmicpc.net/problem/14889)
+  
+#### ✬ 1월 20일 `자료구조`
+  * 10845 [큐](https://www.acmicpc.net/problem/10845)
+  * 1158 [요세푸스 문제](https://www.acmicpc.net/problem/1158)
+  * 10866 [덱](https://www.acmicpc.net/problem/10866)
