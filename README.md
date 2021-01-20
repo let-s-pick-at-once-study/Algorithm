@@ -44,3 +44,7 @@
   * 10845 [큐](https://www.acmicpc.net/problem/10845)
   * 1158 [요세푸스 문제](https://www.acmicpc.net/problem/1158)
   * 10866 [덱](https://www.acmicpc.net/problem/10866)
+  
+#### ✬ 1월 23일 `자료구조`
+  * 9012 [괄호](https://www.acmicpc.net/problem/9012)
+  * 1874 [스택 수열](https://www.acmicpc.net/problem/1874)
