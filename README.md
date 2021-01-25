@@ -48,3 +48,8 @@
 #### ✬ 1월 23일 `자료구조`
   * 9012 [괄호](https://www.acmicpc.net/problem/9012)
   * 1874 [스택 수열](https://www.acmicpc.net/problem/1874)
+  
+#### ✬ 1월 27일 `자료구조`
+  * 1406 [에디터](https://www.acmicpc.net/problem/1406)
+  * 17413 [단어 뒤집기2](https://www.acmicpc.net/problem/17413)
+  * 10799 [쇠막대기](https://www.acmicpc.net/problem/10799)
