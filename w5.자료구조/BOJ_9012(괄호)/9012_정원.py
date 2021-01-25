@@ -3,15 +3,15 @@ from sys import stdin
 
 def solve(list):
     # 비어있는 스택 생성
-		stack = []
+    stack = []
     
-		for x in list:
+    for x in list:
         if x == "(":
             stack.append(x)
         else:
             try:
                 stack.pop()
-						# 스택이 비어있어서 pop할 수 없는 경우 (예외처리)
+	    # 스택이 비어있어서 pop할 수 없는 경우 (예외처리)
             except:
                 return "NO"
 
