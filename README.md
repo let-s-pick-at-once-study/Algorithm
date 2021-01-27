@@ -53,3 +53,7 @@
   * 1406 [에디터](https://www.acmicpc.net/problem/1406)
   * 17413 [단어 뒤집기2](https://www.acmicpc.net/problem/17413)
   * 10799 [쇠막대기](https://www.acmicpc.net/problem/10799)
+
+#### ✬ 1월 30일 `자료구조`
+  * 10808 [알파벳 개수](https://www.acmicpc.net/problem/10808)
+  * 11655 [ROT13](https://www.acmicpc.net/problem/11655)
