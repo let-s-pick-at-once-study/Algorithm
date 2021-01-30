@@ -57,3 +57,8 @@
 #### ✬ 1월 30일 `자료구조`
   * 10808 [알파벳 개수](https://www.acmicpc.net/problem/10808)
   * 11655 [ROT13](https://www.acmicpc.net/problem/11655)
+  
+#### ✬ 2월 3일 `수학` 
+  * 1929 [소수 구하기](https://www.acmicpc.net/problem/1929)
+  * 2004 [조합 0의 개수](https://www.acmicpc.net/problem/2004)
+  * 17087 [숨바꼭질6](https://www.acmicpc.net/problem/17087)
