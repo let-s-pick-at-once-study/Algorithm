@@ -62,3 +62,7 @@
   * 1929 [소수 구하기](https://www.acmicpc.net/problem/1929)
   * 2004 [조합 0의 개수](https://www.acmicpc.net/problem/2004)
   * 17087 [숨바꼭질6](https://www.acmicpc.net/problem/17087)
+  
+#### ✬ 1월 30일 `자료구조`
+  * 1373 [2진수 8진수](https://www.acmicpc.net/problem/1373)
+  * 17103 [골드바흐 파티션](https://www.acmicpc.net/problem/17103)
