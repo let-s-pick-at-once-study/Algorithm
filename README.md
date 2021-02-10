@@ -63,6 +63,11 @@
   * 2004 [조합 0의 개수](https://www.acmicpc.net/problem/2004)
   * 17087 [숨바꼭질6](https://www.acmicpc.net/problem/17087)
   
-#### ✬ 2월 7일 `자료구조`
+#### ✬ 2월 7일 `수학`
   * 1373 [2진수 8진수](https://www.acmicpc.net/problem/1373)
   * 17103 [골드바흐 파티션](https://www.acmicpc.net/problem/17103)
+  
+#### ✬ 2월 10일 `수학` `다이나믹 프로그래밍` `브루트포스`
+  * 11653 [소인수분해](https://www.acmicpc.net/problem/11653)
+  * 11052 [카드 구매하기](https://www.acmicpc.net/problem/11052)
+  * 3085 [사탕 게임](https://www.acmicpc.net/problem/3085)
