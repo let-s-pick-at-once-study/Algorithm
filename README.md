@@ -71,3 +71,7 @@
   * 11653 [소인수분해](https://www.acmicpc.net/problem/11653)
   * 11052 [카드 구매하기](https://www.acmicpc.net/problem/11052)
   * 3085 [사탕 게임](https://www.acmicpc.net/problem/3085)
+  
+#### ✬ 2월 13일 `다이나믹 프로그래밍` `브루트포스`
+  * 15988 [1,2,3 더하기3](https://www.acmicpc.net/problem/15988)
+  * 10819 [차이를 최대로](https://www.acmicpc.net/problem/10819)
