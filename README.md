@@ -75,3 +75,8 @@
 #### ✬ 2월 13일 `다이나믹 프로그래밍` `브루트포스`
   * 15988 [1,2,3 더하기3](https://www.acmicpc.net/problem/15988)
   * 10819 [차이를 최대로](https://www.acmicpc.net/problem/10819)
+
+#### ✬ 2월 20일 `다이나믹 프로그래밍` `브루트포스` `그래프와 BFS`
+  * 15990 [1,2,3 더하기5](https://www.acmicpc.net/problem/15990)
+  * 6064 [카잉 달력](https://www.acmicpc.net/problem/6064)
+  * 16948 [데스 나이트](https://www.acmicpc.net/problem/16948)
