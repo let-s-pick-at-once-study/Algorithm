@@ -84,3 +84,8 @@
 #### ✬ 2월 23일 `그래프와 BFS`
   * 7562 [나이트의 이동](https://www.acmicpc.net/problem/7562)
   * 7576 [토마토](https://www.acmicpc.net/problem/7576)
+
+#### ✬ 2월 27일 `그래프와 BFS` `자료구조`
+  * 16928 [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
+  * 1991 [트리 순회](https://www.acmicpc.net/problem/1991)
+  * 17298 [오큰수](https://www.acmicpc.net/problem/17298)
