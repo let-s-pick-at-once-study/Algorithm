@@ -91,5 +91,5 @@
   * 1991 [트리 순회](https://www.acmicpc.net/problem/1991)
 
 #### ✬ 4월 27일 `문자열` 
-  * [유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/)
-  * [문자열 뒤집기](https://leetcode.com/problems/reverse-string/)
+  * 125 [유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/)
+  * 344 [문자열 뒤집기](https://leetcode.com/problems/reverse-string/)
