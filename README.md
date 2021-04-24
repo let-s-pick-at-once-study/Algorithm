@@ -89,3 +89,7 @@
   * 16928 [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
   * 17298 [오큰수](https://www.acmicpc.net/problem/17298)
   * 1991 [트리 순회](https://www.acmicpc.net/problem/1991)
+
+#### ✬ 4월 27일 `문자열` 
+  * [유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/)
+  * [문자열 뒤집기](https://leetcode.com/problems/reverse-string/)
