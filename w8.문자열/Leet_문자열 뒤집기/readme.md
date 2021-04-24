@@ -1,1 +1,1 @@
-# LeetCode 문자열 뒤
+# LeetCode 문자열 뒤집기
