@@ -91,5 +91,17 @@
   * 1991 [트리 순회](https://www.acmicpc.net/problem/1991)
 
 #### ✬ 4월 27일 `문자열` 
-  * 125 [유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/)
-  * 344 [문자열 뒤집기](https://leetcode.com/problems/reverse-string/)
+  * [유효한 팰린드롬](https://leetcode.com/problems/valid-palindrome/)
+  * [문자열 뒤집기](https://leetcode.com/problems/reverse-string/)
+
+#### ✬ 5월 4일 `문자열` 
+  * [로그 파일 재정렬](https://leetcode.com/problems/reorder-data-in-log-files/)
+  * [가장 흔한 단어](https://leetcode.com/problems/most-common-word/) 
+  * [그룹 애너그램](https://leetcode.com/problems/group-anagrams/)
+  * [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) 
+
+#### ✬ 5월 16일 `문자열` ``
+  * [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) 
+  * [두 수의 합](https://leetcode.com/problems/two-sum/)
+  * [빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/)
+  * [세 수의 합](https://leetcode.com/problems/3sum/)
