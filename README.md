@@ -100,7 +100,7 @@
   * [그룹 애너그램](https://leetcode.com/problems/group-anagrams/)
   * [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) 
 
-#### ✬ 5월 16일 `문자열` ``
+#### ✬ 5월 16일 `문자열` `배열`
   * [가장 긴 팰린드롬 부분 문자열](https://leetcode.com/problems/longest-palindromic-substring/) 
   * [두 수의 합](https://leetcode.com/problems/two-sum/)
   * [빗물 트래핑](https://leetcode.com/problems/trapping-rain-water/)
